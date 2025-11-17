@@ -291,9 +291,6 @@ The web viewer is a separate component for visualizing edge detection results.
    - Open your browser and navigate to `http://localhost:8080`
    - You should see the edge detection viewer interface with sample data
 
-**Web Viewer Interface:**
-
-![Web Viewer Interface](screenshots/web-viewer.png)
 
 The web viewer provides:
 - Real-time edge detection visualization
